@@ -370,6 +370,3 @@ void keyPressed ()
 
 //BoxCollector game v.1.0 by AVM aka Lehtio. 
 //Special thanks to Skari.
-//© 2011 BoxCollector game. All Rights Reserved.
-        
-   
