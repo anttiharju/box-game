@@ -1,8 +1,3 @@
-/**
- * BoxCollector p5.js version
- * @author Antti Harju
- * @version 26.12.2020
- */
 const playerSize = 30;
 const playerSpeed = 3;
 let diagonalCorrection;
